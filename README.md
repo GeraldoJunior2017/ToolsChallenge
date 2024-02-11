@@ -31,6 +31,8 @@ Exemplo de Corpo da Requisição:
     }
   }
 }
+
+
 Resposta: JSON com os detalhes do pagamento, incluindo o status de autorização.
 {
     "transacao": {
@@ -123,6 +125,20 @@ Resposta: JSON contendo a lista de todas as transações registradas.
 
 Ambiente de Desenvolvimento
 Esta API foi desenvolvida utilizando tecnologias modernas, incluindo Spring Boot, que oferece um ambiente de execução robusto e de fácil configuração.
+
+### Tecnologias Utilizadas
+
+Neste projeto, foram utilizadas as seguintes tecnologias:
+
+- Java
+- Spring Boot
+- MySQL
+- - Outras dependências ou bibliotecas relevantes
+
+### Ambiente de Desenvolvimento
+
+Esta API foi desenvolvida utilizando tecnologias modernas, incluindo Spring Boot, que oferece um ambiente de execução robusto e de fácil configuração.
+...
 
 Para começar a utilizar a API de Pagamentos, siga estes passos:
 
